@@ -19,12 +19,11 @@ ul{
 .button {
     font-family: inherit;
     color: #FFFFFF;
-    background-color: #4D5AE5;
-    border-radius: 4px;    
+    background-color: #4D5AE5;       
     cursor: pointer;
-    font-weight: 500
+    font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.04em
+    letter-spacing: 0.04em;
 }
 
 button:hover
@@ -43,8 +42,7 @@ button:focus
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
-    letter-spacing: 0.02em;
-    text-align: center;
+    letter-spacing: 0.02em;    
 }
 .section-hero{
     background-color: #2e2f42;
@@ -122,8 +120,7 @@ font-style: normal;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
-    text-transform: capitalize;
-    text-align: center;
+    text-transform: capitalize;    
 }
 
 .section-team-name{
@@ -146,8 +143,7 @@ font-style: normal;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
-    text-transform: capitalize;
-    text-align: center;
+    text-transform: capitalize;    
 }
 
 .portfolio-name{
