@@ -185,10 +185,10 @@ footer{
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #f4f4fd;
+    color: #4d5ae5;
 }
 
-.logo-light span{
-    color: #4D5AE5;
+.light-logo-span{
+    color: #f4f4fd;
     font-family: "Raleway", sans-serif;
 }
