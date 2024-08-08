@@ -16,14 +16,15 @@ ul{
     list-style-type: none;
 }
 
-button {
+.button {
     font-family: inherit;
     color: #FFFFFF;
     background-color: #4D5AE5;
-    border-radius: 4px;
-    width: 169px;
-    height: 56px;
+    border-radius: 4px;    
     cursor: pointer;
+    font-weight: 500
+    line-height: 1.5;
+    letter-spacing: 0.04em
 }
 
 button:hover
