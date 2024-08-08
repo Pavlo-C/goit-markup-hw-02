@@ -43,7 +43,8 @@ button:focus
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
-    text-align: center
+    text-align: center;
+
 }
 .section-hero{
     background-color: #2e2f42;
@@ -114,7 +115,11 @@ font-style: normal;
 }
 
 .section-team{
-    background-color:#FFF;
+    background-color: #F4F4FD;
+}
+
+.team-card{
+    background-color: #FFFFFF
 }
 
 .section-team-title{
@@ -122,15 +127,17 @@ font-style: normal;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
-    text-transform: capitalize;    
+    text-transform: capitalize;  
+    text-align: center;
+    color: #2e2f42;
 }
 
 .section-team-name{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 0.02em;
-    background-color: #FFF;
+    letter-spacing: 0.02em;   
+    color: #2e2f42;
     }
 
 .section-team-role{
