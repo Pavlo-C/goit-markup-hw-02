@@ -73,6 +73,10 @@ button:focus
     color: #404BBF;
 }
 
+.nav-link:focus {
+    color: #404BBF;
+}
+
 .nav-link span:active{
     color: #404BBF;
     text-decoration: underline;
@@ -85,10 +89,12 @@ font-style: normal;
 
 .contacts-link{
     color: #434455;
+    letter-spacing: 0.02em
 }
 
 .contacts-link:hover{
     color: #404BBF;
+    letter-spacing: 0.02em
 }
 
 .contacts-link:focus {
